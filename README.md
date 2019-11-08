@@ -5,4 +5,8 @@ Updated
 
 Branch updates, More updates in Branch
 
+<<<<<<< HEAD
 I hope this is not much of a problem
+=======
+This is bound to cause trouble
+>>>>>>> very-bad
